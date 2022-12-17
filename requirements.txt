@@ -7,3 +7,5 @@ textblob
 wordcloud
 matplotlib
 seaborn
+scikit-learn
+pyLDAvis
